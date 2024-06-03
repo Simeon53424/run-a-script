@@ -1,3 +1,31 @@
+# My Modified Extension
+
+This extension is modified from the original version created by Mihail Ivanchev.
+
+Original Repository: [https://github.com/MIvanchev/run-a-script/](https://github.com/MIvanchev/run-a-script/)
+Original Copyright © 2022-present Mihail Ivanchev
+
+Modifications made by Simeon YTRoot, 2024.  
+GitHub: [https://github.com/Simeon53424/run-a-script](https://github.com/Simeon53424/run-a-script)
+
+## Third-Party Licenses
+
+- jQuery is distributed under its respective license.
+- The doge icon was sourced from [https://icon-library.com/icon/doge-icon-21.html](https://icon-library.com/icon/doge-icon-21.html) and subsequently modified.
+
+## License
+
+This project is licensed under the GNU General Public License, Version 3 (GNU GPLv3). See the [LICENSE](LICENSE) file for details.
+
+---
+
+# Original README
+
+The following is the original README content from the project by Mihail Ivanchev.
+
+---
+
+
 # run-a-script
 [![SemVer](https://img.shields.io/badge/version-1.0.1-brightgreen.svg)](http://semver.org)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
